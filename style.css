@@ -1,0 +1,27 @@
+body{
+    background-size: cover;
+}
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+}
+.start, #numberofobjects, #status{
+    font-size: 20px;
+    width: 25%;
+}
+.name{
+    width: 100%;
+    color: tomato;
+    text-align: center;
+    position: fixed;
+    bottom: 0px;
+    line-height: 3;
+    font-size: 25px;
+}
+canvas{
+    border: 6px dashed burlywood;
+    border-radius: 20px;
+    box-shadow: 7px 7px 7px cadetblue;
+    margin-top: 100px;
+}
